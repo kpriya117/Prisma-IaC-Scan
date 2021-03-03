@@ -9,7 +9,7 @@ resource "google_storage_bucket" "bucket_vuln" {
   ######################
   # Misconfiguration 1
   # * Versioning not enabled
-  ######################
+  ##########################
   #versioning {
   #  enabled = true
   #}
